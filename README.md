@@ -1,4 +1,4 @@
-![header image](/image.jpg)
+![header image](/image.jpeg)
 
 ### <div align="center" style="padding: 10%;">i'm vansh.</div>
 
