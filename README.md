@@ -4,5 +4,5 @@
 
 
 <div align="center">
-  Hi! I'm a CS major at Caltech passionate about AI and Programming!<br>
+  Hi! I'm a CS major at Caltech passionate about AI research and software engineering!<br>
 </div>
